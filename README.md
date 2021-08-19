@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with Docker
-- 💬 Ask me about soft skills
+- 💬 Ask me about anything
 - 📫 How to reach me: Gmail(banygaick@gmail.com)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Just show me the code!
